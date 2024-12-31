@@ -1,3 +1,5 @@
+# Domain join method : ADDS
+# Image - Azure Market place
 # Get existing host pool data
 data "azurerm_virtual_desktop_host_pool" "existing" {
     name                = "your-hostpool-name"
